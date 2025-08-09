@@ -132,7 +132,7 @@ img{
 }
 
 .rose {
-  width: max(300px, 30vw);
+  width: max(200px, 20vw);
   object-fit: cover;
 }
 .inverted {

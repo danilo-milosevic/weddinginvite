@@ -14,7 +14,7 @@ function App() {
           <h1 className="save-the-date-text">12. Oktobar 2025</h1>
         </div>
         <div className="subtitle">
-          <h1 className="subtitle-text">POZIVAMO VAS DA SVOJIM PRISUSTVOM UVELIČATE NAŠE VENČANJE</h1>
+          <h1 className="subtitle-text">SA ZADOVOLJSTVOM VAS POZIVAMO DA SVOJIM PRISUSTVOM UVELIČATE NAŠE VENČANJE</h1>
         </div>
         <div className="names-title">
           <h1 className="names-title-text">PETRA & DANILO</h1>
@@ -30,7 +30,7 @@ function App() {
           <h1 className="church-text">CRKVENO VENČANJE</h1>
         </div>
         <div className="church-sub text">
-          <h1 className="church-sub-expl">12H SABORNA CRKVA U NIŠU</h1>
+          <h1 className="church-sub-expl">12H SABORNA CRKVA U NIŠU, PRIJEZDINA</h1>
         </div>
         <div className="btm-img">
           <img className="img" src="saborna.png"></img>
@@ -40,10 +40,10 @@ function App() {
 
       <div className = "church-wedding">
         <div className="church-sub title">
-          <h1 className="church-text">PROSLAVA U RESTORANU</h1>
+          <h1 className="church-text">SVEČANI RUČAK U RESTORANU</h1>
         </div>
         <div className="church-sub text">
-          <h1 className="church-sub-expl">14H RESTORAN GUSAR</h1>
+          <h1 className="church-sub-expl">14H RESTORAN GUSAR, JADRANSKA</h1>
         </div>
         <div className="btm-img">
           <img className="img" src="gusar.png"/>
