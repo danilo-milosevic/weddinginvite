@@ -8,10 +8,10 @@ import { TextureLoader } from 'three';
 const FallingLeaf = ({ color, size }) => {
   const spriteRef = useRef();
   const clockRef = useRef(0);
-  const petalTexture1 = useLoader(TextureLoader, '/petal1.png');
-  const petalTexture2 = useLoader(TextureLoader, '/petal2.png');
-  const petalTexture3 = useLoader(TextureLoader, '/petal3.png');
-  const petalTexture4 = useLoader(TextureLoader, '/petal4.png');
+  const petalTexture1 = useLoader(TextureLoader, process.env.PUBLIC_URL + '/petal1.png');
+  const petalTexture2 = useLoader(TextureLoader, process.env.PUBLIC_URL + '/petal2.png');
+  const petalTexture3 = useLoader(TextureLoader, process.env.PUBLIC_URL + '/petal3.png');
+  const petalTexture4 = useLoader(TextureLoader, process.env.PUBLIC_URL + '/petal4.png');
   const petalTextures = [petalTexture1, petalTexture2, petalTexture3, petalTexture4]
   let index = Math.floor(Math.random() * 4) 
   if (index === 4) {
