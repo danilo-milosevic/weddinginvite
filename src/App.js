@@ -11,7 +11,7 @@ function App() {
       <div className = "start-page">
         <div className="rose-div"><img className="rose" src="roses.png"></img></div>
         <div className="save-the-date-title">
-          <h1 className="save-the-date-text">12. Oktobar 2025</h1>
+          <h1 className="save-the-date-text">12. Oktobar 2025.</h1>
         </div>
         <div className="subtitle">
           <h1 className="subtitle-text">SA ZADOVOLJSTVOM VAS POZIVAMO DA SVOJIM PRISUSTVOM UVELIČATE NAŠE VENČANJE</h1>
@@ -20,7 +20,7 @@ function App() {
           <h1 className="names-title-text">PETRA & DANILO</h1>
         </div>
         <div className="save-the-date-title">
-          <h1 className="subtitle-text potvrda">MOLIMO DA DOLAZAK POTVRDITE DO 1. OKTOBRA 2025</h1>
+          <h1 className="subtitle-text potvrda">MOLIMO DA DOLAZAK POTVRDITE DO 1. OKTOBRA 2025.</h1>
         </div>
         <div className="rose-div"><img className="rose inverted" src="roses.png"></img></div>
       </div>
