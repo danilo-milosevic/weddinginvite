@@ -99,13 +99,13 @@ div {
   margin-bottom: 8px;
 } 
 .subtitle-text {
-  font-size: max(1.5vw, 16px);
+  font-size: max(1vw, 14px);
 }
 .subtitle {
   margin-bottom: 24px;
 }
 .names-title-text {
-  font-size: 80px;
+  font-size: 70px;
 }
 .names-title {
   flex-wrap: wrap;
@@ -144,7 +144,7 @@ img{
 }
 .church-text {
   text-align: start;
-  font-size: 50px;
+  font-size: 40px;
 }
 .church-sub {
   margin-bottom: 24px;
@@ -156,7 +156,7 @@ img{
   font-size: 60px;
 }
 .church-sub-expl {
-  font-size: 24px;
+  font-size: 16px;
 }
 .church-img {
   position: relative;
