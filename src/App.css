@@ -85,7 +85,6 @@ div {
   flex-direction: column;
   padding: 5vh;
   margin: 30px;
-  margin-top:70px;
 }
 
 .save-the-date-text {
@@ -101,6 +100,11 @@ div {
 .subtitle-text {
   font-size: max(1vw, 14px);
 }
+
+.potvrda {
+   font-size: max(0.5vw, 10px);
+}
+
 .subtitle {
   margin-bottom: 24px;
   padding-left: 12px;
@@ -186,7 +190,7 @@ img{
 }
 .title {
   height: 15%;
-  padding-top: 70px;
+  padding-top: 30px;
 }
 .subtitle {
   height: 10%;

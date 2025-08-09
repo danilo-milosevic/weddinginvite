@@ -20,7 +20,7 @@ function App() {
           <h1 className="names-title-text">PETRA & DANILO</h1>
         </div>
         <div className="save-the-date-title">
-          <h1 className="subtitle-text">MOLIMO DA DOLAZAK POTVRDITE DO 1. OKTOBRA 2025</h1>
+          <h1 className="subtitle-text potvrda">MOLIMO DA DOLAZAK POTVRDITE DO 1. OKTOBRA 2025</h1>
         </div>
         <div className="rose-div"><img className="rose inverted" src="roses.png"></img></div>
       </div>
