@@ -34,20 +34,20 @@ function App() {
         </div>
         <div className="btm-img">
           <img className="img" src="saborna.png"></img>
-          <div class="gradient-overlay"></div>
+          <div className="gradient-overlay"></div>
         </div>
       </div>
 
       <div className = "church-wedding">
         <div className="church-sub title">
-          <h1 className="church-text">PROSLAVA U KAFANI</h1>
+          <h1 className="church-text">PROSLAVA U RESTORANU</h1>
         </div>
         <div className="church-sub text">
-          <h1 className="church-sub-expl">14H KAFANA GUSAR</h1>
+          <h1 className="church-sub-expl">14H RESTORAN GUSAR</h1>
         </div>
         <div className="btm-img">
           <img className="img" src="gusar.png"/>
-          <div class="gradient-overlay"></div>
+          <div className="gradient-overlay"></div>
         </div>
       </div>
 
